@@ -1,4 +1,4 @@
-BuzzTalk is a real-time chat application built with React, Node.js, Express, and Socket.io. Users can register, set an avatar, and engage in real-time messaging with other users.
+BuzzTalk is a real-time chat application built with React, Node.js, Express, MongoDb and Socket.io. Users can register, set an avatar, and engage in real-time messaging with other users.
 
 Features
 User registration and login
