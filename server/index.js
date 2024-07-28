@@ -37,7 +37,7 @@ const io = new Server(server,{
 main().catch(err => console.log(err));
 
 async function main() {
-    await mongoose.connect(process.env.mongo_url);
+    await mongoose.connect(process.env.MONGO_URL);
 }
 
 
