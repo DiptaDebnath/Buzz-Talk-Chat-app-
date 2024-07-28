@@ -1,0 +1,48 @@
+.WellCome-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    gap: 2rem;
+}
+
+.WellCome-box img {
+    height: 20rem;
+    width: auto;
+}
+
+/* Responsive styles */
+@media (max-width: 1000px) {
+    .WellCome-box img {
+        height: 15rem;
+    }
+    .WellCome-box h1 {
+        font-size: 1.5rem;
+    }
+    .WellCome-box h3 {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .WellCome-box img {
+        height: 10rem;
+    }
+    .WellCome-box h1 {
+        font-size: 1.2rem;
+    }
+    .WellCome-box h3 {
+        font-size: 0.8rem;
+    }
+}
+
+.WellCome-box span {
+    color: #4e00ff;
+}
+
+.WellCome-box span{
+    color: #4e00ff;
+}
+
+

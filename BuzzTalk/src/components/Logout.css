@@ -1,0 +1,14 @@
+.logOut-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: rgb(247, 9, 9);
+    border: none;
+    cursor: pointer;
+}
+svg{
+    font-size: 1.3rem;
+    color: rgb(153, 226, 226);
+}
